@@ -1,10 +1,10 @@
 # CSC-3100-App
 This project is for my first React application
 
-##Overview
+## Overview
 React App made from the IE0: Getting Started with React.
 
-##Technologies used
+## Technologies used
 React
 Vite
 NPM
