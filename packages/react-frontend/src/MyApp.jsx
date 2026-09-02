@@ -18,8 +18,8 @@ function MyApp() {
   }
 
   return (
-    <div className="container">
-     <Table characterData={characters} removeCharacter={removeOneCharacter} />
+  <div className="container">
+    <Table characterData={characters} removeCharacter={removeOneCharacter} />
      <Form handleSubmit={updateList} />
     </div>
   );

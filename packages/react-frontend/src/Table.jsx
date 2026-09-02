@@ -40,7 +40,7 @@ function Table(props) {
         <TableHeader />
         <TableBody 
         characterData={props.characterData} 
-        removeCharacter={props.removeOneCharacter}
+        removeCharacter={props.removeCharacter}
         />
       </table>
     );
